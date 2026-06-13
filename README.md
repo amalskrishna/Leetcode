@@ -21,6 +21,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/amalskrishna/Leetcode/tree/master/0217-contains-duplicate) |
 | [0383-ransom-note](https://github.com/amalskrishna/Leetcode/tree/master/0383-ransom-note) |
 ## String
 |  |
@@ -30,4 +31,12 @@
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/amalskrishna/Leetcode/tree/master/0383-ransom-note) |
+## Array
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/amalskrishna/Leetcode/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/amalskrishna/Leetcode/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
