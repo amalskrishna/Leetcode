@@ -18,11 +18,13 @@
 |  |
 | ------- |
 | [0876-middle-of-the-linked-list](https://github.com/amalskrishna/Leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [2540-minimum-common-value](https://github.com/amalskrishna/Leetcode/tree/master/2540-minimum-common-value) |
 ## Hash Table
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/amalskrishna/Leetcode/tree/master/0217-contains-duplicate) |
 | [0383-ransom-note](https://github.com/amalskrishna/Leetcode/tree/master/0383-ransom-note) |
+| [2540-minimum-common-value](https://github.com/amalskrishna/Leetcode/tree/master/2540-minimum-common-value) |
 ## String
 |  |
 | ------- |
@@ -35,8 +37,13 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/amalskrishna/Leetcode/tree/master/0217-contains-duplicate) |
+| [2540-minimum-common-value](https://github.com/amalskrishna/Leetcode/tree/master/2540-minimum-common-value) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/amalskrishna/Leetcode/tree/master/0217-contains-duplicate) |
+## Binary Search
+|  |
+| ------- |
+| [2540-minimum-common-value](https://github.com/amalskrishna/Leetcode/tree/master/2540-minimum-common-value) |
 <!---LeetCode Topics End-->
