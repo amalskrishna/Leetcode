@@ -29,6 +29,7 @@
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/amalskrishna/Leetcode/tree/master/0383-ransom-note) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/amalskrishna/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Counting
 |  |
 | ------- |
@@ -37,6 +38,7 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/amalskrishna/Leetcode/tree/master/0217-contains-duplicate) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/amalskrishna/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2540-minimum-common-value](https://github.com/amalskrishna/Leetcode/tree/master/2540-minimum-common-value) |
 ## Sorting
 |  |
@@ -46,4 +48,8 @@
 |  |
 | ------- |
 | [2540-minimum-common-value](https://github.com/amalskrishna/Leetcode/tree/master/2540-minimum-common-value) |
+## Simulation
+|  |
+| ------- |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/amalskrishna/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 <!---LeetCode Topics End-->
