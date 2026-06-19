@@ -20,6 +20,7 @@
 |  |
 | ------- |
 | [0876-middle-of-the-linked-list](https://github.com/amalskrishna/Leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [0977-squares-of-a-sorted-array](https://github.com/amalskrishna/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2540-minimum-common-value](https://github.com/amalskrishna/Leetcode/tree/master/2540-minimum-common-value) |
 ## Hash Table
 |  |
@@ -45,6 +46,7 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/amalskrishna/Leetcode/tree/master/0217-contains-duplicate) |
+| [0977-squares-of-a-sorted-array](https://github.com/amalskrishna/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/amalskrishna/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/amalskrishna/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2540-minimum-common-value](https://github.com/amalskrishna/Leetcode/tree/master/2540-minimum-common-value) |
@@ -55,6 +57,7 @@
 | ------- |
 | [0217-contains-duplicate](https://github.com/amalskrishna/Leetcode/tree/master/0217-contains-duplicate) |
 | [0389-find-the-difference](https://github.com/amalskrishna/Leetcode/tree/master/0389-find-the-difference) |
+| [0977-squares-of-a-sorted-array](https://github.com/amalskrishna/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
