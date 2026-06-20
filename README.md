@@ -30,6 +30,7 @@
 | [0389-find-the-difference](https://github.com/amalskrishna/Leetcode/tree/master/0389-find-the-difference) |
 | [2540-minimum-common-value](https://github.com/amalskrishna/Leetcode/tree/master/2540-minimum-common-value) |
 | [2965-find-missing-and-repeated-values](https://github.com/amalskrishna/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/amalskrishna/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## String
 |  |
 | ------- |
@@ -38,6 +39,7 @@
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/amalskrishna/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/amalskrishna/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/amalskrishna/Leetcode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/amalskrishna/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Counting
 |  |
 | ------- |
@@ -70,4 +72,8 @@
 |  |
 | ------- |
 | [2965-find-missing-and-repeated-values](https://github.com/amalskrishna/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
+## Sliding Window
+|  |
+| ------- |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/amalskrishna/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 <!---LeetCode Topics End-->
