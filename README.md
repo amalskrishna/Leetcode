@@ -12,6 +12,7 @@
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/amalskrishna/Leetcode/tree/master/0389-find-the-difference) |
+| [0645-set-mismatch](https://github.com/amalskrishna/Leetcode/tree/master/0645-set-mismatch) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/amalskrishna/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Linked List
 |  |
@@ -30,6 +31,7 @@
 | [0383-ransom-note](https://github.com/amalskrishna/Leetcode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/amalskrishna/Leetcode/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/amalskrishna/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0645-set-mismatch](https://github.com/amalskrishna/Leetcode/tree/master/0645-set-mismatch) |
 | [0771-jewels-and-stones](https://github.com/amalskrishna/Leetcode/tree/master/0771-jewels-and-stones) |
 | [1512-number-of-good-pairs](https://github.com/amalskrishna/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/amalskrishna/Leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
@@ -58,6 +60,7 @@
 | ------- |
 | [0217-contains-duplicate](https://github.com/amalskrishna/Leetcode/tree/master/0217-contains-duplicate) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/amalskrishna/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0645-set-mismatch](https://github.com/amalskrishna/Leetcode/tree/master/0645-set-mismatch) |
 | [0977-squares-of-a-sorted-array](https://github.com/amalskrishna/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1512-number-of-good-pairs](https://github.com/amalskrishna/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/amalskrishna/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -72,6 +75,7 @@
 | [0217-contains-duplicate](https://github.com/amalskrishna/Leetcode/tree/master/0217-contains-duplicate) |
 | [0389-find-the-difference](https://github.com/amalskrishna/Leetcode/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/amalskrishna/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0645-set-mismatch](https://github.com/amalskrishna/Leetcode/tree/master/0645-set-mismatch) |
 | [0977-squares-of-a-sorted-array](https://github.com/amalskrishna/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/amalskrishna/Leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 ## Binary Search
