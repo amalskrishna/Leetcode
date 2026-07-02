@@ -5,6 +5,7 @@
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/amalskrishna/Leetcode/tree/master/0012-integer-to-roman) |
 | [0380-insert-delete-getrandom-o1](https://github.com/amalskrishna/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/amalskrishna/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/amalskrishna/Leetcode/tree/master/1512-number-of-good-pairs) |
@@ -29,6 +30,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/amalskrishna/Leetcode/tree/master/0012-integer-to-roman) |
 | [0217-contains-duplicate](https://github.com/amalskrishna/Leetcode/tree/master/0217-contains-duplicate) |
 | [0380-insert-delete-getrandom-o1](https://github.com/amalskrishna/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/amalskrishna/Leetcode/tree/master/0383-ransom-note) |
@@ -48,6 +50,7 @@
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/amalskrishna/Leetcode/tree/master/0012-integer-to-roman) |
 | [0383-ransom-note](https://github.com/amalskrishna/Leetcode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/amalskrishna/Leetcode/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/amalskrishna/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
