@@ -9,6 +9,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/amalskrishna/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/amalskrishna/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/amalskrishna/Leetcode/tree/master/1512-number-of-good-pairs) |
+| [2469-convert-the-temperature](https://github.com/amalskrishna/Leetcode/tree/master/2469-convert-the-temperature) |
 | [2965-find-missing-and-repeated-values](https://github.com/amalskrishna/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Bit Manipulation
 |  |
