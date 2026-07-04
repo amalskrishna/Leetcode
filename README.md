@@ -88,6 +88,7 @@
 | [2540-minimum-common-value](https://github.com/amalskrishna/Leetcode/tree/master/2540-minimum-common-value) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/amalskrishna/Leetcode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2965-find-missing-and-repeated-values](https://github.com/amalskrishna/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
+| [3028-ant-on-the-boundary](https://github.com/amalskrishna/Leetcode/tree/master/3028-ant-on-the-boundary) |
 ## Sorting
 |  |
 | ------- |
@@ -106,6 +107,7 @@
 |  |
 | ------- |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/amalskrishna/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [3028-ant-on-the-boundary](https://github.com/amalskrishna/Leetcode/tree/master/3028-ant-on-the-boundary) |
 ## Matrix
 |  |
 | ------- |
@@ -132,4 +134,8 @@
 |  |
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/amalskrishna/Leetcode/tree/master/2413-smallest-even-multiple) |
+## Prefix Sum
+|  |
+| ------- |
+| [3028-ant-on-the-boundary](https://github.com/amalskrishna/Leetcode/tree/master/3028-ant-on-the-boundary) |
 <!---LeetCode Topics End-->
