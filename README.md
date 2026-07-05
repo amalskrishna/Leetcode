@@ -9,6 +9,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/amalskrishna/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/amalskrishna/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/amalskrishna/Leetcode/tree/master/1512-number-of-good-pairs) |
+| [1952-three-divisors](https://github.com/amalskrishna/Leetcode/tree/master/1952-three-divisors) |
 | [2413-smallest-even-multiple](https://github.com/amalskrishna/Leetcode/tree/master/2413-smallest-even-multiple) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/amalskrishna/Leetcode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2469-convert-the-temperature](https://github.com/amalskrishna/Leetcode/tree/master/2469-convert-the-temperature) |
@@ -136,6 +137,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [1952-three-divisors](https://github.com/amalskrishna/Leetcode/tree/master/1952-three-divisors) |
 | [2413-smallest-even-multiple](https://github.com/amalskrishna/Leetcode/tree/master/2413-smallest-even-multiple) |
 ## Prefix Sum
 |  |
@@ -145,4 +147,8 @@
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/amalskrishna/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Enumeration
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/amalskrishna/Leetcode/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
