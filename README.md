@@ -10,6 +10,7 @@
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/amalskrishna/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/amalskrishna/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1952-three-divisors](https://github.com/amalskrishna/Leetcode/tree/master/1952-three-divisors) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/amalskrishna/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/amalskrishna/Leetcode/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/amalskrishna/Leetcode/tree/master/2427-number-of-common-factors) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/amalskrishna/Leetcode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
@@ -87,6 +88,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/amalskrishna/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1512-number-of-good-pairs](https://github.com/amalskrishna/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/amalskrishna/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/amalskrishna/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/amalskrishna/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/amalskrishna/Leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/amalskrishna/Leetcode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
@@ -139,6 +141,7 @@
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/amalskrishna/Leetcode/tree/master/1952-three-divisors) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/amalskrishna/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/amalskrishna/Leetcode/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/amalskrishna/Leetcode/tree/master/2427-number-of-common-factors) |
 ## Prefix Sum
