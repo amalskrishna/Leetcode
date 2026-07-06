@@ -11,6 +11,7 @@
 | [1512-number-of-good-pairs](https://github.com/amalskrishna/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1952-three-divisors](https://github.com/amalskrishna/Leetcode/tree/master/1952-three-divisors) |
 | [2413-smallest-even-multiple](https://github.com/amalskrishna/Leetcode/tree/master/2413-smallest-even-multiple) |
+| [2427-number-of-common-factors](https://github.com/amalskrishna/Leetcode/tree/master/2427-number-of-common-factors) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/amalskrishna/Leetcode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2469-convert-the-temperature](https://github.com/amalskrishna/Leetcode/tree/master/2469-convert-the-temperature) |
 | [2965-find-missing-and-repeated-values](https://github.com/amalskrishna/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
@@ -139,6 +140,7 @@
 | ------- |
 | [1952-three-divisors](https://github.com/amalskrishna/Leetcode/tree/master/1952-three-divisors) |
 | [2413-smallest-even-multiple](https://github.com/amalskrishna/Leetcode/tree/master/2413-smallest-even-multiple) |
+| [2427-number-of-common-factors](https://github.com/amalskrishna/Leetcode/tree/master/2427-number-of-common-factors) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -151,4 +153,5 @@
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/amalskrishna/Leetcode/tree/master/1952-three-divisors) |
+| [2427-number-of-common-factors](https://github.com/amalskrishna/Leetcode/tree/master/2427-number-of-common-factors) |
 <!---LeetCode Topics End-->
