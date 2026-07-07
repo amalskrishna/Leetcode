@@ -36,6 +36,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/amalskrishna/Leetcode/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/amalskrishna/Leetcode/tree/master/0012-integer-to-roman) |
 | [0217-contains-duplicate](https://github.com/amalskrishna/Leetcode/tree/master/0217-contains-duplicate) |
 | [0380-insert-delete-getrandom-o1](https://github.com/amalskrishna/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -82,6 +83,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/amalskrishna/Leetcode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/amalskrishna/Leetcode/tree/master/0217-contains-duplicate) |
 | [0380-insert-delete-getrandom-o1](https://github.com/amalskrishna/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/amalskrishna/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
