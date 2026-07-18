@@ -86,6 +86,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/amalskrishna/Leetcode/tree/master/0001-two-sum) |
+| [0200-number-of-islands](https://github.com/amalskrishna/Leetcode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/amalskrishna/Leetcode/tree/master/0217-contains-duplicate) |
 | [0380-insert-delete-getrandom-o1](https://github.com/amalskrishna/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/amalskrishna/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -124,6 +125,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/amalskrishna/Leetcode/tree/master/0200-number-of-islands) |
 | [2965-find-missing-and-repeated-values](https://github.com/amalskrishna/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Sliding Window
 |  |
@@ -163,4 +165,16 @@
 | ------- |
 | [1952-three-divisors](https://github.com/amalskrishna/Leetcode/tree/master/1952-three-divisors) |
 | [2427-number-of-common-factors](https://github.com/amalskrishna/Leetcode/tree/master/2427-number-of-common-factors) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/amalskrishna/Leetcode/tree/master/0200-number-of-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/amalskrishna/Leetcode/tree/master/0200-number-of-islands) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/amalskrishna/Leetcode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
