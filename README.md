@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/amalskrishna/Leetcode/tree/master/0012-integer-to-roman) |
+| [0202-happy-number](https://github.com/amalskrishna/Leetcode/tree/master/0202-happy-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/amalskrishna/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/amalskrishna/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/amalskrishna/Leetcode/tree/master/1512-number-of-good-pairs) |
@@ -29,6 +30,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/amalskrishna/Leetcode/tree/master/0202-happy-number) |
 | [0567-permutation-in-string](https://github.com/amalskrishna/Leetcode/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/amalskrishna/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/amalskrishna/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -38,6 +40,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/amalskrishna/Leetcode/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/amalskrishna/Leetcode/tree/master/0012-integer-to-roman) |
+| [0202-happy-number](https://github.com/amalskrishna/Leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/amalskrishna/Leetcode/tree/master/0217-contains-duplicate) |
 | [0380-insert-delete-getrandom-o1](https://github.com/amalskrishna/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/amalskrishna/Leetcode/tree/master/0383-ransom-note) |
