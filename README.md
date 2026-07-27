@@ -41,6 +41,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/amalskrishna/Leetcode/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/amalskrishna/Leetcode/tree/master/0012-integer-to-roman) |
+| [0036-valid-sudoku](https://github.com/amalskrishna/Leetcode/tree/master/0036-valid-sudoku) |
 | [0202-happy-number](https://github.com/amalskrishna/Leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/amalskrishna/Leetcode/tree/master/0217-contains-duplicate) |
 | [0380-insert-delete-getrandom-o1](https://github.com/amalskrishna/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -90,6 +91,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/amalskrishna/Leetcode/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/amalskrishna/Leetcode/tree/master/0036-valid-sudoku) |
 | [0200-number-of-islands](https://github.com/amalskrishna/Leetcode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/amalskrishna/Leetcode/tree/master/0217-contains-duplicate) |
 | [0380-insert-delete-getrandom-o1](https://github.com/amalskrishna/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -131,6 +133,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/amalskrishna/Leetcode/tree/master/0036-valid-sudoku) |
 | [0200-number-of-islands](https://github.com/amalskrishna/Leetcode/tree/master/0200-number-of-islands) |
 | [2965-find-missing-and-repeated-values](https://github.com/amalskrishna/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Sliding Window
