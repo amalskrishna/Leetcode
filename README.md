@@ -98,6 +98,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/amalskrishna/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/amalskrishna/Leetcode/tree/master/0455-assign-cookies) |
 | [0645-set-mismatch](https://github.com/amalskrishna/Leetcode/tree/master/0645-set-mismatch) |
+| [0724-find-pivot-index](https://github.com/amalskrishna/Leetcode/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/amalskrishna/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1512-number-of-good-pairs](https://github.com/amalskrishna/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/amalskrishna/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -165,6 +166,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/amalskrishna/Leetcode/tree/master/0724-find-pivot-index) |
 | [3028-ant-on-the-boundary](https://github.com/amalskrishna/Leetcode/tree/master/3028-ant-on-the-boundary) |
 ## Stack
 |  |
