@@ -99,6 +99,7 @@
 | [0455-assign-cookies](https://github.com/amalskrishna/Leetcode/tree/master/0455-assign-cookies) |
 | [0645-set-mismatch](https://github.com/amalskrishna/Leetcode/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/amalskrishna/Leetcode/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/amalskrishna/Leetcode/tree/master/0739-daily-temperatures) |
 | [0977-squares-of-a-sorted-array](https://github.com/amalskrishna/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1512-number-of-good-pairs](https://github.com/amalskrishna/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/amalskrishna/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -171,6 +172,7 @@
 ## Stack
 |  |
 | ------- |
+| [0739-daily-temperatures](https://github.com/amalskrishna/Leetcode/tree/master/0739-daily-temperatures) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/amalskrishna/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Enumeration
 |  |
@@ -189,4 +191,8 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/amalskrishna/Leetcode/tree/master/0200-number-of-islands) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/amalskrishna/Leetcode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
