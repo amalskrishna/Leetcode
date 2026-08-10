@@ -5,6 +5,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/amalskrishna/Leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/amalskrishna/Leetcode/tree/master/0012-integer-to-roman) |
 | [0202-happy-number](https://github.com/amalskrishna/Leetcode/tree/master/0202-happy-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/amalskrishna/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
