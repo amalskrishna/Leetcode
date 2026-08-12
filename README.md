@@ -7,6 +7,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/amalskrishna/Leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/amalskrishna/Leetcode/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/amalskrishna/Leetcode/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/amalskrishna/Leetcode/tree/master/0202-happy-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/amalskrishna/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/amalskrishna/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -42,6 +43,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/amalskrishna/Leetcode/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/amalskrishna/Leetcode/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/amalskrishna/Leetcode/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/amalskrishna/Leetcode/tree/master/0036-valid-sudoku) |
 | [0202-happy-number](https://github.com/amalskrishna/Leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/amalskrishna/Leetcode/tree/master/0217-contains-duplicate) |
@@ -64,6 +66,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/amalskrishna/Leetcode/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/amalskrishna/Leetcode/tree/master/0013-roman-to-integer) |
 | [0383-ransom-note](https://github.com/amalskrishna/Leetcode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/amalskrishna/Leetcode/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/amalskrishna/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
