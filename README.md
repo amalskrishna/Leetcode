@@ -100,6 +100,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/amalskrishna/Leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/amalskrishna/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0035-search-insert-position](https://github.com/amalskrishna/Leetcode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/amalskrishna/Leetcode/tree/master/0036-valid-sudoku) |
 | [0200-number-of-islands](https://github.com/amalskrishna/Leetcode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/amalskrishna/Leetcode/tree/master/0217-contains-duplicate) |
@@ -135,6 +136,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/amalskrishna/Leetcode/tree/master/0035-search-insert-position) |
 | [2540-minimum-common-value](https://github.com/amalskrishna/Leetcode/tree/master/2540-minimum-common-value) |
 ## Simulation
 |  |
